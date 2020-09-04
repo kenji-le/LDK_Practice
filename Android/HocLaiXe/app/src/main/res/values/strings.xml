@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Học lái xe máy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Trung Tâm Tin Học</string>
+    <string name="nav_header_subtitle">Đại học Khoa học tự nhiên</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_maps">Bản đồ</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="info">Info</string>
+    <string name="info_description">Information about this video</string>
+    <string name="info_uri" translatable="false">https://peach.blender.org/</string>
+    <string name="fast_forward">Fast forward</string>
+    <string name="fast_rewind">Fast rewind</string>
+    <string name="minimize">Minimize</string>
+    <string name="enter_picture_in_picture">Enter Picture-in-Picture mode</string>
+    <string name="explanation"><![CDATA[
+    This sample demonstrates basic usage of Picture-in-Picture mode for handheld devices.
+    The sample plays a video. The video keeps on playing when the app is turned in to
+    Picture-in-Picture mode. On Picture-in-Picture screen, the app shows an action item to pause or
+    resume the video.
+    ]]></string>
+    <string name="switch_custom">Switch to custom actions example</string>
+    <string name="switch_media_session">Switch to using MediaSession</string>
+    <string name="title_bigbuckbunny">Big Buck Bunny</string>
+    <string name="title_activity_thi">ThiActivity</string>
+    <string name="txt_main_go_to_hoc_ly_thuyet_text">Học lý thuyết</string>
+    <string name="txt_main_go_to_hoc_ly_thuyet_info">Học lý thuyết</string>
+    <string name="txt_main_go_to_hoc_thuc_hanh_text">Học thực hành</string>
+    <string name="txt_main_go_to_hoc_thuc_hanh_info">Học thực hành</string>
+    <string name="txt_main_go_to_thi_thu_text">Thi thử</string>
+    <string name="txt_main_go_to_thi_thu_info">Thi thử</string>
+    <string name="txt_main_go_to_dang_ky_thi_text">Đăng ký thi</string>
+    <string name="txt_main_go_to_dang_ky_thi_info">Đăng ký thi</string>
+    <string name="txt_main_go_to_google_maps_text">Google maps</string>
+    <string name="txt_main_go_to_google_maps_info">Google maps</string>
+    <string name="txt_main_go_to_tim_duong_text">Tìm đường</string>
+    <string name="txt_main_go_to_tim_duong_info">Tìm đường</string>
+
+    <string name="menu_thithu">Thi thu</string>
+    <string name="menu_lythuyet">Ly thuyet</string>
+    <string name="menu_thuchanh">Thuc hanh</string>
+    <string name="menu_dangkythi">Dang ky thi</string>
+    <string name="menu_googlemap">Google map</string>
+    <string name="menu_timduongdi">Tim duong</string>
+
+</resources>

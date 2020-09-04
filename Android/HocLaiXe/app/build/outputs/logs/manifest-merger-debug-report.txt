@@ -1,0 +1,379 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:2:1-72:12
+MERGED from [com.android.support:design:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/596db9338710b924cad47e08319a2340/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/b77f8b980a7a2b9ca12ad9a50fb152fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3872639e0d9169efa60528b5f1f2d5f1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/c16641edc71f33d9c9fa569a4615d730/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/396281b6c25ba3a3aa69f9ff863586e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/8847e6f6151ec4a9a74a6c15ccc978b5/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/aefd65fe2b65e4638b1186fd3c0cfec2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3174872d48d52c4161958ec3a2347c85/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/43a1e77d969bf69940ff36e712437ec7/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/b11602a85367ff01261d688e8ffa430e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/c507da16473378bde59d5226624a3e32/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/fb3e4814099733fcd3d06506cc7694df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/6af702acb8e0d4b7bbc0c6a016f4f9c2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/68f03eaa4f37d6b6b62c886e148a892b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/30bbb4ffed164e3f29f4be0fc3b5762c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/1319cd5e5b39dd73c886526ba925a4e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/d99405f190551d4f0c1e2a7d7f61645a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/45a6d46b763a19ef82247f11927d6a53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/0f21ba184521ae197556244284e00e9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/0d11f340e1eb3b2470600ae755876616/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/9fa3478f9e368dbc91d2ce9fd0a39ee2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/4e2c7282b8ac1ce69eb79de4c57e2747/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/e1d38ff9277435f2571e28527162b0ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/d3bd8758c8836c3e8cc5f2f91cee1c3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/621756cc617a3c7a5a2fe2e99762ed58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/9bd28290fb38e90f5e0a71caef955272/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/a4b14a9a815ef67cccff4df0cf0e7d1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/45d323189f08ef81c87b861dbd301e83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/6e5579174315d07d630f067ff84e3631/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/f7d0133ad68459a118fd3414e436bac5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/dc327bf6c95311b25e2076c384b1c779/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/8b6ac8441c3c022c48d2e3a0a8e2aa07/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/6bf471cc0e9ba8928037a679e3e78e70/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/ecfbb810753bfd51fa390dc669b3f90c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/448d1782cad9e03ab43cb09d64ef4266/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/77154b3a81361a32612ea2d248cee8e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/db2a4cbe5ddf6e589afe5f75ea89c5f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/ca7e1a9fc23280d61183fac45784017a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/cf41ee60a79230e456f5d2b8d2b87593/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/45e34e5187742d9c30e99fa80997c000/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/de47ff9d718d73810377fee7dd747333/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/eae52ac42cbe58aa31364797dfb74b81/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/a639e57507168935ec4aea8f6512b68e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:2:1-72:12
+	package
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:2:1-72:12
+		INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:2:1-72:12
+		INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3872639e0d9169efa60528b5f1f2d5f1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3872639e0d9169efa60528b5f1f2d5f1/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:11:22-78
+application
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:13:5-70:19
+MERGED from [com.android.support:design:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/596db9338710b924cad47e08319a2340/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/596db9338710b924cad47e08319a2340/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3872639e0d9169efa60528b5f1f2d5f1/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3872639e0d9169efa60528b5f1f2d5f1/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/c16641edc71f33d9c9fa569a4615d730/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/c16641edc71f33d9c9fa569a4615d730/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/8847e6f6151ec4a9a74a6c15ccc978b5/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/8847e6f6151ec4a9a74a6c15ccc978b5/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/aefd65fe2b65e4638b1186fd3c0cfec2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/aefd65fe2b65e4638b1186fd3c0cfec2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3174872d48d52c4161958ec3a2347c85/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3174872d48d52c4161958ec3a2347c85/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/43a1e77d969bf69940ff36e712437ec7/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/43a1e77d969bf69940ff36e712437ec7/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/b11602a85367ff01261d688e8ffa430e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/b11602a85367ff01261d688e8ffa430e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/c507da16473378bde59d5226624a3e32/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/c507da16473378bde59d5226624a3e32/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/6af702acb8e0d4b7bbc0c6a016f4f9c2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/6af702acb8e0d4b7bbc0c6a016f4f9c2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/68f03eaa4f37d6b6b62c886e148a892b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/68f03eaa4f37d6b6b62c886e148a892b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/dc327bf6c95311b25e2076c384b1c779/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/dc327bf6c95311b25e2076c384b1c779/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/8b6ac8441c3c022c48d2e3a0a8e2aa07/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/8b6ac8441c3c022c48d2e3a0a8e2aa07/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/dc327bf6c95311b25e2076c384b1c779/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.example.hoclaixe.activity.WelcomeActivity
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:20:9-25:20
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:20:19-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.hoclaixe.activity.LoginActivity
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:26:9-89
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:26:19-77
+activity#com.example.hoclaixe.activity.MainActivity
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:27:9-30:58
+	android:label
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:28:13-70
+activity#com.example.hoclaixe.activity.ThiThuActivity
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:31:9-34:59
+	android:label
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:33:13-36
+	android:theme
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:32:13-72
+activity#com.example.hoclaixe.activity.HocLyThuyetActivity
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:35:9-38:59
+	android:label
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:37:13-42
+	android:theme
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:36:13-77
+activity#com.example.hoclaixe.activity.ThucHanhActivity
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:39:9-83
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:39:19-80
+activity#com.example.hoclaixe.activity.PIPActivity
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:40:9-45:59
+	android:launchMode
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:43:13-44
+	android:supportsPictureInPicture
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:44:13-52
+	android:configChanges
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:42:13-91
+	android:theme
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:41:13-69
+activity#com.example.hoclaixe.activity.PlayVideoActivity
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:46:9-84
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:46:19-81
+activity#com.example.hoclaixe.activity.DangKyActivity
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:47:9-81
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:47:19-78
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:56:9-58:55
+	android:value
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:58:13-52
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:57:13-58
+activity#com.example.hoclaixe.activity.MapsActivity
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:60:9-62:59
+	android:label
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:62:13-56
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:61:13-70
+activity#com.example.hoclaixe.activity.TimDuongActivity
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:63:9-65:44
+	android:label
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:65:13-41
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:64:13-74
+meta-data#android.app.shortcuts
+ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:67:9-69:49
+	android:resource
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:69:13-46
+	android:name
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml:68:13-49
+uses-sdk
+INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/596db9338710b924cad47e08319a2340/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/596db9338710b924cad47e08319a2340/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/b77f8b980a7a2b9ca12ad9a50fb152fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/b77f8b980a7a2b9ca12ad9a50fb152fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3872639e0d9169efa60528b5f1f2d5f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3872639e0d9169efa60528b5f1f2d5f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/c16641edc71f33d9c9fa569a4615d730/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/c16641edc71f33d9c9fa569a4615d730/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/396281b6c25ba3a3aa69f9ff863586e0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/396281b6c25ba3a3aa69f9ff863586e0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/8847e6f6151ec4a9a74a6c15ccc978b5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/8847e6f6151ec4a9a74a6c15ccc978b5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/aefd65fe2b65e4638b1186fd3c0cfec2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/aefd65fe2b65e4638b1186fd3c0cfec2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3174872d48d52c4161958ec3a2347c85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3174872d48d52c4161958ec3a2347c85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/43a1e77d969bf69940ff36e712437ec7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/43a1e77d969bf69940ff36e712437ec7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/b11602a85367ff01261d688e8ffa430e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/b11602a85367ff01261d688e8ffa430e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/c507da16473378bde59d5226624a3e32/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/c507da16473378bde59d5226624a3e32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/fb3e4814099733fcd3d06506cc7694df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/fb3e4814099733fcd3d06506cc7694df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/6af702acb8e0d4b7bbc0c6a016f4f9c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/6af702acb8e0d4b7bbc0c6a016f4f9c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/68f03eaa4f37d6b6b62c886e148a892b/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/68f03eaa4f37d6b6b62c886e148a892b/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/30bbb4ffed164e3f29f4be0fc3b5762c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/30bbb4ffed164e3f29f4be0fc3b5762c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/1319cd5e5b39dd73c886526ba925a4e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/1319cd5e5b39dd73c886526ba925a4e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/d99405f190551d4f0c1e2a7d7f61645a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/d99405f190551d4f0c1e2a7d7f61645a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/45a6d46b763a19ef82247f11927d6a53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/45a6d46b763a19ef82247f11927d6a53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/0f21ba184521ae197556244284e00e9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/0f21ba184521ae197556244284e00e9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/0d11f340e1eb3b2470600ae755876616/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/0d11f340e1eb3b2470600ae755876616/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/9fa3478f9e368dbc91d2ce9fd0a39ee2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/9fa3478f9e368dbc91d2ce9fd0a39ee2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/4e2c7282b8ac1ce69eb79de4c57e2747/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/4e2c7282b8ac1ce69eb79de4c57e2747/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/e1d38ff9277435f2571e28527162b0ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/e1d38ff9277435f2571e28527162b0ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/d3bd8758c8836c3e8cc5f2f91cee1c3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/d3bd8758c8836c3e8cc5f2f91cee1c3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/621756cc617a3c7a5a2fe2e99762ed58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/621756cc617a3c7a5a2fe2e99762ed58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/9bd28290fb38e90f5e0a71caef955272/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/9bd28290fb38e90f5e0a71caef955272/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/a4b14a9a815ef67cccff4df0cf0e7d1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/a4b14a9a815ef67cccff4df0cf0e7d1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/45d323189f08ef81c87b861dbd301e83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/45d323189f08ef81c87b861dbd301e83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/6e5579174315d07d630f067ff84e3631/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/6e5579174315d07d630f067ff84e3631/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/f7d0133ad68459a118fd3414e436bac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/f7d0133ad68459a118fd3414e436bac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/dc327bf6c95311b25e2076c384b1c779/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/dc327bf6c95311b25e2076c384b1c779/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/8b6ac8441c3c022c48d2e3a0a8e2aa07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/8b6ac8441c3c022c48d2e3a0a8e2aa07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/6bf471cc0e9ba8928037a679e3e78e70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/6bf471cc0e9ba8928037a679e3e78e70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/ecfbb810753bfd51fa390dc669b3f90c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/ecfbb810753bfd51fa390dc669b3f90c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/448d1782cad9e03ab43cb09d64ef4266/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/448d1782cad9e03ab43cb09d64ef4266/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/77154b3a81361a32612ea2d248cee8e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/77154b3a81361a32612ea2d248cee8e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/db2a4cbe5ddf6e589afe5f75ea89c5f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/db2a4cbe5ddf6e589afe5f75ea89c5f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/ca7e1a9fc23280d61183fac45784017a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/ca7e1a9fc23280d61183fac45784017a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/cf41ee60a79230e456f5d2b8d2b87593/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/cf41ee60a79230e456f5d2b8d2b87593/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/45e34e5187742d9c30e99fa80997c000/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/45e34e5187742d9c30e99fa80997c000/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/de47ff9d718d73810377fee7dd747333/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/de47ff9d718d73810377fee7dd747333/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/eae52ac42cbe58aa31364797dfb74b81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/eae52ac42cbe58aa31364797dfb74b81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/a639e57507168935ec4aea8f6512b68e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/a639e57507168935ec4aea8f6512b68e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ledangkhoa/GitHub/LDK_ANDROID/Module_3/Exercise/HocLaiXe/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3872639e0d9169efa60528b5f1f2d5f1/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3872639e0d9169efa60528b5f1f2d5f1/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3872639e0d9169efa60528b5f1f2d5f1/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3872639e0d9169efa60528b5f1f2d5f1/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/3872639e0d9169efa60528b5f1f2d5f1/AndroidManifest.xml:28:9-32
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:33:9-39:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/11c06c1314522d1cac06a552a4b8a84a/AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/aefd65fe2b65e4638b1186fd3c0cfec2/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/aefd65fe2b65e4638b1186fd3c0cfec2/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/aefd65fe2b65e4638b1186fd3c0cfec2/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/aefd65fe2b65e4638b1186fd3c0cfec2/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/43a1e77d969bf69940ff36e712437ec7/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/43a1e77d969bf69940ff36e712437ec7/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/43a1e77d969bf69940ff36e712437ec7/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/43a1e77d969bf69940ff36e712437ec7/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/43a1e77d969bf69940ff36e712437ec7/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/c507da16473378bde59d5226624a3e32/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/c507da16473378bde59d5226624a3e32/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ledangkhoa/.gradle/caches/transforms-2/files-2.1/c507da16473378bde59d5226624a3e32/AndroidManifest.xml:24:13-58

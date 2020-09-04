@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.hoclaixe.activity.ThiThuActivity"
+    tools:showIn="@layout/activity_thi_thu">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vpThiThu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="#1a73e8"
+        app:layout_constraintVertical_bias="1.0">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_bg_color_left"
+            android:textColor="#ffffff"
+            android:textSize="10pt"
+            android:text="&#60;"
+            android:id="@+id/btnPrevious"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="11/20"
+            android:textColor="#ffffff"
+            android:textSize="10pt"
+            android:id="@+id/tvCurrent"
+            android:gravity="center"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_bg_color_with_state"
+            android:text="&#62;"
+            android:textColor="#ffffff"
+            android:textSize="10pt"
+            android:gravity="center"
+            android:id="@+id/btnNext"/>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

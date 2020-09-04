@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="shortcut_thi_thu"
+        android:enabled="true"
+        android:shortcutLongLabel="@string/txt_main_go_to_thi_thu_text"
+        android:shortcutShortLabel="@string/txt_main_go_to_thi_thu_info">
+
+        <intent
+            android:action = "android.intent.action.VIEW"
+            android:targetClass = "com.example.hoclaixe.activity.ThiThuActivity"
+            android:targetPackage = "com.example.hoclaixe.activity">
+        </intent>
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="shortcut_hoc_ly_thuyet"
+        android:enabled="true"
+        android:shortcutLongLabel="@string/txt_main_go_to_hoc_ly_thuyet_text"
+        android:shortcutShortLabel="@string/txt_main_go_to_hoc_ly_thuyet_info">
+
+        <intent
+            android:action = "android.intent.action.VIEW"
+            android:targetClass = "com.example.hoclaixe.activity.HocLyThuyetActivity"
+            android:targetPackage = "com.example.hoclaixe.activity">
+        </intent>
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="shortcut_thuc_hanh"
+        android:enabled="true"
+        android:shortcutLongLabel="@string/txt_main_go_to_hoc_thuc_hanh_text"
+        android:shortcutShortLabel="@string/txt_main_go_to_hoc_thuc_hanh_info">
+
+        <intent
+            android:action = "android.intent.action.VIEW"
+            android:targetClass = "com.example.hoclaixe.activity.ThucHanhActivity"
+            android:targetPackage = "com.example.hoclaixe.activity">
+        </intent>
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="shortcut_dang_ky_thi"
+        android:enabled="true"
+        android:shortcutLongLabel="@string/txt_main_go_to_dang_ky_thi_text"
+        android:shortcutShortLabel="@string/txt_main_go_to_dang_ky_thi_info">
+
+        <intent
+            android:action = "android.intent.action.VIEW"
+            android:targetClass = "com.example.hoclaixe.activity.DangKyActivity"
+            android:targetPackage = "com.example.hoclaixe.activity">
+        </intent>
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="shortcut_google_maps"
+        android:enabled="true"
+        android:shortcutLongLabel="@string/txt_main_go_to_google_maps_text"
+        android:shortcutShortLabel="@string/txt_main_go_to_google_maps_info">
+
+        <intent
+            android:action = "android.intent.action.VIEW"
+            android:targetClass = "com.example.hoclaixe.activity.MapsActivity"
+            android:targetPackage = "com.example.hoclaixe.activity">
+        </intent>
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="shortcut_tim_duong"
+        android:enabled="true"
+        android:shortcutLongLabel="@string/txt_main_go_to_tim_duong_text"
+        android:shortcutShortLabel="@string/txt_main_go_to_tim_duong_info">
+
+        <intent
+            android:action = "android.intent.action.VIEW"
+            android:targetClass = "com.example.hoclaixe.activity.TimDuongActivity"
+            android:targetPackage = "com.example.hoclaixe.activity">
+        </intent>
+    </shortcut>
+</shortcuts>
