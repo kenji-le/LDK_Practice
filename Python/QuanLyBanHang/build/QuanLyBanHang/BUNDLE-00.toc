@@ -1,0 +1,3 @@
+([('QuanLyBanHang',
+   '/Users/ledangkhoa/GitHub/LDK_Python/Exam/QuanLyBanHang/dist/QuanLyBanHang',
+   'EXECUTABLE')],)
